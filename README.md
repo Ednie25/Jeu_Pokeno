@@ -16,3 +16,27 @@ This project is a Python implementation of the POKENO card game. The game involv
 
 ## Installation
 
+To run the POKENO Game locally, ensure you have Python 3.x installed. Clone the repository and navigate to the project directory:
+
+```sh
+git clone https://github.com/your-username/pokeno-game.git
+cd pokeno-game
+
+
+## Usage
+
+- **Setup**: Enter player names and initialize their card grids.
+- **Gameplay**: Players take turns drawing cards and marking their grids based on the drawn cards.
+- **Winning**: The game checks after each draw if any player has achieved the winning configuration.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
+
+
+## Acknowledgments
+
+- Inspired by the original POKENO card game.
+- Built using Python and standard libraries.
+
+
