@@ -36,7 +36,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 To run the POKENO Game locally, ensure you have Python 3.x installed. Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/your-username/pokeno-game.git
+git clone https://github.com/Ednie25/Jeu_Pokeno.git
 cd pokeno-game
 
 
